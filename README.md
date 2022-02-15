@@ -4,7 +4,13 @@ The Expense Reimbursement System will manage the process of reimbursing employee
 
 #
 
-To initiate the app:
+Both the front-end and back-end repos must be cloned:
+
+[Front-end repo link](https://github.com/ma-ge13/project-1-front-end.git)
+
+[Back-end repo link](https://github.com/ma-ge13/Project-1-Back-End.git)
+
+To initiate each end:
 
     - npm install
     - npm start
